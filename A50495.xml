@@ -1,0 +1,673 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two sticks made one, or, The excellency of unity being a sermon preached by the appointment of the Congregational and Presbyterian perswasion at their happy union on the sixth day of April, 1691, which was a day set apart by them, partly to bewail former divisions and partly as a thanksgiving to God for Their present agreement and now at their unamimous request made publick / by Matthew Mead ...</title>
+            <author>Mead, Matthew, 1630?-1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 85 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50495</idno>
+            <idno type="STC">Wing M1562</idno>
+            <idno type="STC">ESTC R3764</idno>
+            <idno type="EEBO-CITATION">13676710</idno>
+            <idno type="OCLC">ocm 13676710</idno>
+            <idno type="VID">101233</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50495)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101233)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 794:44)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two sticks made one, or, The excellency of unity being a sermon preached by the appointment of the Congregational and Presbyterian perswasion at their happy union on the sixth day of April, 1691, which was a day set apart by them, partly to bewail former divisions and partly as a thanksgiving to God for Their present agreement and now at their unamimous request made publick / by Matthew Mead ...</title>
+                  <author>Mead, Matthew, 1630?-1699.</author>
+               </titleStmt>
+               <extent>[8], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Parkhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication: "To the Reverend the dissenting ministers of London, formerly called Congregational and Presbyterian, but now known by the name of United Brethren."</note>
+                  <note>Advertisement on p. 32.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Ezekiel XXXVII, 19 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101233:1"/>
+            <pb facs="tcp:101233:1"/>
+            <p>
+               <hi>Two Sticks made One:</hi> OR, THE EXCELLENCY OF UNITY. BEING A SERMON Preached by the Appointment of the Miniſters of the Congregational and Presby<g ref="char:EOLhyphen"/>terian Perſwaſion, at their Happy UNION. On the Sixth Day of <hi>April,</hi> 1691. Which was a Day ſet apart by them, partly to bewail former Diviſions, and partly as a Thankſgiving to God for their preſent Agreement. <hi>And now at their <g ref="char:V">Ʋ</g>nanimous Requeſt made Publick.</hi>
+            </p>
+            <p>By <hi>MATTHEW MEAD,</hi> Paſtor of a Church of Chriſt at <hi>Stepney.</hi>
+            </p>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>Pſal. 133.1.</hi>
+                  </bibl> Behold how good, and how pleaſant it is for Brethren to dwell together in Unity.</p>
+               <p>Si virtutum finis ille ſit maximus qui plurimorum ſpectat profectum, mode<g ref="char:EOLhyphen"/>ratio omnium pulcherrima eſt. <bibl>
+                     <hi>Ambr.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Tho. Parkhurſt</hi> at the <hi>Bible</hi> and <hi>Three Crowns</hi> at the lower end of <hi>Cheap-ſide,</hi> near <hi>Mercers-Chappel.</hi> 1691.</p>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:101233:2" rendition="simple:additions"/>
+            <p>THE <hi>Excellency of Vnity:</hi> A SERMON preached by the Appointment of the Miniſters of the Congregational and Presbyte<g ref="char:EOLhyphen"/>rian Perſwaſion at their Happy Union: On the Sixth Day of <hi>April,</hi> 1691.</p>
+            <p>By <hi>MATTHEW MEAD,</hi> Paſtor of a Church of Chriſt at <hi>Stepney.</hi>
+            </p>
+            <pb facs="tcp:101233:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:101233:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:101233:4"/>
+            <pb facs="tcp:101233:4"/>
+            <head>To the Reverend THE <hi>Diſſenting Miniſters</hi> OF LONDON, Formerly called <hi>Congregational</hi> and <hi>Presbyterian,</hi> But now known by the Name of United Brethren</head>
+            <opener>
+               <salute>Reverend, and much honoured in the Lord,</salute>
+            </opener>
+            <p>AS this Sermon had not been Preached, ſo nor had it been made publick, but in obe<g ref="char:EOLhyphen"/>dience to your Call; which I the more wil<g ref="char:EOLhyphen"/>lingly complied with, that I might thereby give Testimony to my readineſs of promo<g ref="char:EOLhyphen"/>ting that good Deſign abroad, which you have made ſo happy a progreſs in at home.</p>
+            <p>
+               <pb facs="tcp:101233:5"/>You no ſooner had appointed me to this Work, but God pointed me to the Text; which I found ſo ſuitable to the Occaſion, that I reſolved to do the utmoſt my ſhort Arm could reach to, in improving it to the bleſſed ends of Love and <g ref="char:V">Ʋ</g>nion, that I might thereby ſhew my ſelf to be not only <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; and indeavour with all my might that the <hi>Heaven</hi> below might be made like the <hi>Heaven</hi> above, <hi>a quiet and peaceable Ha<g ref="char:EOLhyphen"/>bitation.</hi>
+            </p>
+            <p>To intermeddle in Matters of Strife is in common Caſes deemed a thankleſs Office, and he oft times feels moſt Fiſts who ſteps in to part the Fray.<note place="margin">Naz. Orat. de Pace.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. But the Goodneſs of this <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>dertaking is ſuch, as will richly Recompenſe for the greateſt Inconvenience that can attend the Attempt; and if it ſhould not find Succeſs among Men, I am ſatiſ<g ref="char:EOLhyphen"/>fied that it will not want a Bleſſing from God.</p>
+            <p>None can, with any colour of Reaſon, be prejudiced at this happy <g ref="char:V">Ʋ</g>ndertaking of yours, which is not in the leaſt intended to countenance any Carnal or Worldly Deſign, but to ſerve the great Intereſts of our Lord Jeſus, and promote that <hi>Kingdom</hi> of his which <hi>is not of this World.</hi>
+            </p>
+            <p>Many there are who call every kind of Compliance <hi>baſeneſs,</hi> and <hi>a betraying of Principles;</hi> but ſo long as our Conſciences tell us, that what we do is in Obedi<g ref="char:EOLhyphen"/>ence to the Command of Chriſt, the peace we ſhall find within will more then pay the Charge of all unjuſt Cen<g ref="char:EOLhyphen"/>ſures from without. Men of ſuch rough and ſowr Spi<g ref="char:EOLhyphen"/>rits are ready to think God to be ſuch a one as them<g ref="char:EOLhyphen"/>ſelves; As the <hi>Lacedaemonians,</hi> being a Warlike Peo<g ref="char:EOLhyphen"/>ple,
+<pb facs="tcp:101233:5"/>
+repreſented their Gods all in Armour. But <hi>God is love, and he that dwells in love, dwells in God, and God in him.</hi>
+            </p>
+            <p>Who doth not deſire to ſee the Church of Chriſt in a flouriſhing ſtate? It was one of <hi>Auſtin</hi>'s wiſhes, to ſee <hi>Romam in flore.</hi> And ſhould it not be every good Man's wiſh, to ſee <hi>Eccleſiam in flore?</hi> When the Temple is purged, and <hi>a Separation</hi> made <hi>between the Sanctuary and the profane Place,</hi> (Ezek. <hi>41.20.</hi>) then <hi>the Glory of the Lord will fill the Houſe,</hi> Ezek. <hi>43.5.</hi>
+            </p>
+            <p>God hath eminently appeared among you hitherto in carrying on this bleſſed Work, therefore it greatly con<g ref="char:EOLhyphen"/>cerns us to hold him faſt by <hi>Endeavouring to keep the Unity of the Spirit in the Bond of Peace,</hi> leſt this <hi>Silence in Heaven</hi> ſhould be but for the <hi>ſpace of half an hour.</hi>
+            </p>
+            <p>How ſhould the conſideration of <hi>the Coming of the Lord,</hi> which now <hi>draws</hi> very <hi>nigh,</hi> put us all upon pro<g ref="char:EOLhyphen"/>moting this Work. Will it not be a very uncomfortable thing to be found in our Diviſions in that day? There<g ref="char:EOLhyphen"/>fore we ought not to ſtand at a diſtance, but upon ſuch Reaſons as will juſtifie our diſſent, and be approved of by the impartial Judge.</p>
+            <p>The Lord pour out a richer meaſure of the Spirit of Love upon all that fear his Name, and ſhew to them that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which none can find, but they who are <hi>taught of God.</hi> The Inquiry after which, in order to walking therein, was the chief Deſign of this Diſcourſe. Such as it is it is now yours, not only by my Act in the Dedication, but by your own in the Publication. And
+<pb facs="tcp:101233:6"/>
+therefore as it humbly begs your Patronage becauſe it needs it, ſo it earneſtly calls for your Obſervance becauſe of the importance of the Deſign of it, which is to ſtrengthen the <hi>Staff of Bands</hi> now put into your hands by God; and this nothing can do but a conſtant and con<g ref="char:EOLhyphen"/>ſcientious practice of thoſe Principles upon which your <g ref="char:V">Ʋ</g>nion ſtands.</p>
+            <p>And now Brethren, as that <hi>Rod out of the Stem of</hi> Jeſſe (upon whom <hi>the Spirit of the Lord reſts,</hi> the <hi>Gir<g ref="char:EOLhyphen"/>dle of whoſe Reins is Faithfulneſs</hi>) hath ſo far fulfilled that comfortable Promiſe, as to cauſe the <hi>Wolf to dwell with the Lamb;</hi> let it alſo appear that he hath bowed your Spirits to ſuch an intire Reſignation to Truth, as that a <hi>Child may lead you.</hi> And then the Counſels here given will be as readily imbraced, and as carefully pra<g ref="char:EOLhyphen"/>ctiſed, as they were faithfully tendered by him who great<g ref="char:EOLhyphen"/>ly rejoyceth to be known by the pleaſing Title of one (tho the meaneſt) of the <hi>united Brethren,</hi> and</p>
+            <closer>
+               <signed>Your moſt faithful Servant, <hi>Matth Mead.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:101233:6"/>
+            <head>Two Sticks made One.</head>
+            <epigraph>
+               <q>
+                  <bibl>EZEK. <hi>XXXVII. 19.</hi>
+                  </bibl>
+                  <p>Say unto them, Thus ſaith the Lord God, Behold I will take the ſtick of <hi>Joſeph,</hi> which is in the hand of <hi>Ephraim,</hi> and the Tribes of <hi>Iſrael</hi> his fellows, and will put them with him, even with the ſtick of <hi>Judah,</hi> and make them one ſtick, and they ſhall be one in mine hand.</p>
+               </q>
+            </epigraph>
+            <p>WHat our Lord Chriſt ſaid in <hi>Luk.</hi> 4.21. upon his reading that of the Prophet <hi>Iſaiah, The ſpirit of the Lord is upon me, becauſe he hath a<g ref="char:EOLhyphen"/>nointed me to preach good tydings to the meek,</hi> &amp;c. <hi>This day,</hi> ſays he, <hi>this Scripture is fulfilled in your ears.</hi> The ſame I may ſay of this Scripture now read to you, God hath in a great meaſure this day fulfilled it among you.</p>
+            <p>A Scripture which ſeems exactly fitted to this Days Deſign, which is partly for humbling in regard of former Diviſions; and partly for rejoycing with reſpect to the preſent Union.</p>
+            <p>Accordingly you have in the Text two Sticks,<note place="margin">
+                  <hi>Iſa.</hi> 9.21.</note> 
+               <hi>The ſtick in the hand of Ephraim,</hi> and the <hi>ſtick of Judah:</hi> that is, <hi>Ephraim</hi> againſt <hi>Judah,</hi> and <hi>Judah</hi> againſt <hi>Ephraim.</hi> This is matter of mourning. But then you have theſe two ſticks <hi>made one in the hand of the Lord,</hi> and that is cauſe of rejoycing.</p>
+            <p>As in the Body Natural, Health is the Salt of all Mercies, ſo in Bodies Politick, and Eccleſiaſtical, the Salt of all Mer<g ref="char:EOLhyphen"/>cies is Peace and Union, without which no good can be
+<pb n="2" facs="tcp:101233:7"/>
+long preſerved, or comfortably enjoyed. And therefore our Lord hath put them together, <hi>Mark</hi> 9. ult. <hi>Have ſalt in your ſelves, and have peace one with another.</hi>
+            </p>
+            <p>The deſirableneſs of Peace and Union cannot be better ſet out, then by reflecting upon the direful Miſchiefs of Diſ<g ref="char:EOLhyphen"/>cord and Diviſion. One ſays, <hi>Numerus binarius est infamis, quia primo auſus est ab unitate diſcedere.</hi>
+            </p>
+            <p>It is an accurſed number, as firſt departing from Unity. I am ſure the departing from that Unity which we are cal<g ref="char:EOLhyphen"/>led of God to keep,<note place="margin">
+                  <hi>Eph.</hi> 4.3.</note> 
+               <hi>viz. The unity of the ſpirit, in the bond of peace,</hi> is a very curſed thing.</p>
+            <p>
+               <hi>Jerom</hi> calls Diviſions, <hi>Amicorum diſpendia, inimicorum com<g ref="char:EOLhyphen"/>pendia, divinae irae incendia.</hi> So that we may ſay of them, what <hi>Auſtin</hi> ſays of Original Sin, <hi>Peccatum, cauſa peccati, poena peccati.</hi> They are not only ſin, and the cauſe of ſin, but the puniſhment of ſin too, ſo that they are nothing but a heap of ſin.</p>
+            <p>Diviſions in a Kingdom, in a City, in a Family are very ſad, and have ſad effects; Chriſt ſays, they can't ſtand where theſe are, (<hi>Mat.</hi> 12.25.) but no Diviſions ſo ſad as they that happen among the People of God. <hi>For the diviſions of Reuben there were ſad thoughts of heart,</hi> Judg. 5.15.</p>
+            <p>When Brethren are divided, and the Fire is kindled in our own Bowels, riſing from our ſelves, this is ſad indeed. As the Prophet ſays, <hi>Ezek.</hi> 19.14. <hi>Fire is gone out of a rod of her branches, which hath devoured her fruit, ſo that ſhe hath no ſtrong rod to be a ſcepter to rule, this is a lamentation, and ſhall be for a lamentation.</hi>
+            </p>
+            <p>And this was the very caſe of the People in the Text, a long and ſad diviſion had been among them from the time of <hi>Jeroboam,</hi> not only as they were a State, but as they were a Church too; Civil diviſion brought in Eccleſiaſtical; they could not agree in one Government, nor in one way of Worſhip. Two Tribes cleave to the Worſhip of the Tem<g ref="char:EOLhyphen"/>ple, but the reſt of them muſt have their Calves at <hi>Dan</hi> and <hi>Bethel.</hi> So that they were not only divided as a State; but which is more ſad, they were divided as a Church of God.</p>
+            <p>
+               <pb n="3" facs="tcp:101233:7"/>Now hear God promiſes to heal their Diviſions, and to make them one; <hi>they ſhall be one in my hand.</hi> In the whole Chapter you have two Prophecies, in which are contained two great Promiſes, excellently ſuited to two great Evils this People were now under, <hi>viz.</hi> Diviſion, and Deſolation.</p>
+            <p>Their Deſolation is ſet out in the former part of the Chap<g ref="char:EOLhyphen"/>ter, under the Type of a Valley of dry Bones, <hi>verſ.</hi> 1, 2.</p>
+            <p>The Thing God promiſes is Redemption, under the Type of making <hi>dry Bones live.</hi> This you have from the third <hi>verſe</hi> to the fourteenth.</p>
+            <p>Their Diviſion is ſet out by the Type of two Sticks, the Promiſe God makes is to cure their Diviſions, and unite them again, and this under the Type of making two Sticks one, and not only ſo, but to bring them into a firmer Union then ever.</p>
+            <p>They ſhall be united to be one People, <hi>verſ.</hi> 22. <hi>They ſhall be no more two Nations, I will make them one upon the Mountains of</hi> Iſrael.</p>
+            <p>They ſhall be united in one God, <hi>verſ.</hi> 23. <hi>They ſhall be my People, and I will be their God.</hi>
+            </p>
+            <p>They ſhall be united under one King, <hi>verſ.</hi> 24. David <hi>my Servant ſhall be King over them, and they ſhall have one Shep<g ref="char:EOLhyphen"/>herd.</hi>
+            </p>
+            <p>They ſhall be united in one way of Repentance, <hi>verſ.</hi> 23. <hi>They ſhall not defile themſelves any more with their Idols, nor with their deteſtable Things, nor with any of their Tranſgreſſions.</hi>
+            </p>
+            <p>They ſhall be united in one way of Reformation, <hi>verſ.</hi> 24. <hi>They ſhall walk in my Judgments, and obſerve my Statutes, and do them.</hi>
+            </p>
+            <p>They ſhall be united in one Covenant, <hi>verſ.</hi> 26. <hi>I will make a Covenant of Peace with them, it ſhall be an everlasting Cove<g ref="char:EOLhyphen"/>nant.</hi>
+            </p>
+            <p>They ſhall be united in one way of Worſhip, <hi>verſ.</hi> 26, 27. <hi>I will ſet my Sanctuary in the midſt of them for ever, my Taber<g ref="char:EOLhyphen"/>nacle alſo ſhall be with them.</hi>
+            </p>
+            <p>Now ſuch a Union as this, for a People to be made one in One God, under one King, in one way of Repentance and Reformation, in one Covenant, and in one way of Wor<g ref="char:EOLhyphen"/>ſhip;
+<pb n="4" facs="tcp:101233:8"/>
+what a firm, what a ſpiritual, what a compleat, and conſequently what a bleſſed Union muſt this be.</p>
+            <p>Concerning which, in the whole of this Prophecy, where<g ref="char:EOLhyphen"/>in it is contained, you may obſerve four things.</p>
+            <p n="1">1. Here is the Subject Matter of this Union deſcribed, and that both in the Type (as I may call it) and in the Anti<g ref="char:EOLhyphen"/>type. In the Type it is two Sticks. In the Antitype it is the Church of God in two parts. This is in the ſixteenth <hi>verſe.</hi>
+            </p>
+            <p n="2">2. Here is a Writing to be inſcribed; which is not only commanded, but the words of the Writing dictated. <hi>Write upon one Stick, for</hi> Judah, <hi>and for the Houſe of</hi> Iſrael <hi>his Compa<g ref="char:EOLhyphen"/>nions: i. e.</hi> the Tribe of <hi>Benjamin,</hi> and all the reſt that joyn<g ref="char:EOLhyphen"/>ed with them in their way of worſhip.</p>
+            <p>And write upon the other <hi>Stick, for</hi> Joſeph, <hi>the Stick of</hi> E<g ref="char:EOLhyphen"/>phraim, <hi>and all the Houſe of</hi> Iſrael, <hi>his Companions.</hi> That is, the the other Ten Tribes, who were joyned under <hi>Jeroboam</hi> in his way of Worſhip.</p>
+            <p n="3">3. Here is the Way and Manner of this Union directed. <hi>Joyn them one to another into one Stick,</hi> verſ. 17.</p>
+            <p n="4">4. Here is the meaning of all unridled and explained, in the words of the Text, <hi>Behold, I will take the Stick of</hi> Joſeph <hi>which is in the hand of</hi> Ephraim, <hi>and the Tribes of</hi> Iſrael <hi>his Fellows, and will put them with him, even with the Stick of</hi> Ju<g ref="char:EOLhyphen"/>dah, <hi>and make them one Stick, and they ſhall be one in my hand.</hi>
+            </p>
+            <p>To attempt the explaining the Nature, or Kind, or Mean<g ref="char:EOLhyphen"/>ing of theſe Sticks, when the thing intended by them is ſo fully expreſſed, would be but trifling with the Text, which I ſhall indeavour to improve to more uſeful purpoſes.</p>
+            <p>There is only one thing that I ſhall remark upon in the words, before I come to what I intend. And that is, the Form of the Promiſe in which this Union is wrapped up.</p>
+            <p>
+               <hi>I will make them one Stick, and they ſhall be one in my hand.</hi>
+            </p>
+            <list>
+               <item>1. What Oneneſs is this that is here promiſed?</item>
+               <item>2. What is intended by this doubling the Promiſe?</item>
+               <item>3. What is implyed by being one in God's hand?</item>
+            </list>
+            <p n="1">
+               <pb n="5" facs="tcp:101233:8"/>1. What <hi>Oneneſs</hi> is this that is here promiſed and pointed at? Wherein doth it eſpecially conſiſt?</p>
+            <p>There are ſeveral ſorts of <hi>Oneneſs</hi> in Scripture.</p>
+            <p>There is an <hi>Oneneſs</hi> of divers Perſons in one Nature.</p>
+            <p>There is an <hi>Oneneſs</hi> of differing Natures in One Perſon.</p>
+            <p>And there is an <hi>Oneneſs</hi> of ſundry Natures and Perſons in one Quality.</p>
+            <list>
+               <item>In the firſt is One God, <hi>Deut.</hi> 6.4.</item>
+               <item>In the ſecond is One Chriſt, 1 <hi>Cor.</hi> 8.6.</item>
+               <item>In the third is one Church. <hi>Cant.</hi> 6.9. <hi>My Undefiled is but One.</hi> Acts 4.32. <hi>The multitude of them that be<g ref="char:EOLhyphen"/>lieved were of One heart, and of One ſoul.</hi>
+               </item>
+            </list>
+            <p>This is an Eccleſiaſtical <hi>Oneneſs,</hi> and it is that which the Text chiefly points at.</p>
+            <p>
+               <hi>Bellarmine</hi> ſpeaks of a ſixfold Oneneſs in the Church.</p>
+            <p n="1">1. In reſpect of God who calleth, but this makes the Church not ſo much <hi>una,</hi> as <hi>ſub uno,</hi> one, as under one.</p>
+            <p n="2">2. In reſpect of the end, the Salvation to which it is called, but this makes the Church not ſo much one, as <hi>ad unum.</hi>
+            </p>
+            <p n="3">3. In reſpect of the means, as Word, Faith, and Sacra<g ref="char:EOLhyphen"/>ments. But thus the Church is rather <hi>by one, than one.</hi>
+            </p>
+            <p n="4">4. In reſpect of the Spirit as a ſeparated Governour.</p>
+            <p n="5">5. In reſpect of Chriſt as a conjoyned Head.</p>
+            <p n="6">6. In reſpect of the connexion of the members among themſelves; and in theſe two laſt reſpects (ſays he) it is moſt properly <hi>one.</hi>
+            </p>
+            <p>So that this <hi>Oneneſs</hi> is ſuch in the inward principles, and outward practice of Religion, as concerns the people of God joyntly and reciprocally in their Church State, as joynt Mem<g ref="char:EOLhyphen"/>bers of Chriſt, and one of another.</p>
+            <p>And this is the Oneneſs here promiſed, <hi>I will make them one ſtick, and they ſhall be one in my hand.</hi>
+            </p>
+            <p>But 2. what is intended in the doubling this promiſe? <hi>I will make them one, and they ſhall be one.</hi>
+            </p>
+            <p n="1">1. It may point at a twofold Union, Paſſive, and Active. <hi>He makes them one;</hi> that's a paſſive union, God is alone in it. <hi>They ſhall be one,</hi> that is more active, there is the operation of Man in it.</p>
+            <p>
+               <pb n="6" facs="tcp:101233:9"/>As it is in the union betwixt Chriſt and the Chriſtian; it is firſt paſſive, and then active. There is the operation of the ſpirit uniting, and then the act of Faith in cloſing; we are <hi>apprehended of Chriſt,</hi> before we can <hi>apprehend Chriſt, Philip.</hi> 3.12.</p>
+            <p>
+               <hi>Unition,</hi> as ſome calls it, is in order of nature before <hi>union,</hi> and ſo it is in this union in the Text, between Chriſtian and Chriſtian, Believer and Believer, Church and Church. God is firſt in it. Uniting Graces muſt precede uniting acts, and if God thus make us one, then we ſhall be one. For,</p>
+            <p n="2">2. The doubling the promiſe, imports the certainty of the accompliſhment. As <hi>Pharaohs</hi> dreams were doubled, ſo the promiſe is here repeated,<note place="margin">
+                  <hi>Gen.</hi> 41.32.</note> 
+               <hi>becauſe the thing is eſtabliſhed by God, and he will ſurely bring it to paſs. I will make them one, and they ſhall be one.</hi>
+               <note place="margin">
+                  <hi>Iſa.</hi> 43.13.</note> 
+               <hi>Q. d.</hi> None ſhall be able to hinder it. <hi>I work, and who ſhall let it?</hi> Sometimes God divides a people, and then none can unite them;<note place="margin">
+                  <hi>Judges</hi> 9.23.</note> 
+               <hi>God ſent an evil ſpirit between</hi> Abimelich, <hi>and the men of</hi> Shechem.</p>
+            <p>So when God unites, none can divide; if he makes the <hi>two ſticks one,</hi>
+               <note place="margin">
+                  <hi>Job</hi> 34.29.</note> they ſhall be one. <hi>When he gives peace, who then can make trouble?</hi>
+            </p>
+            <p n="3">3. It implys ſuch a union, as ſhall be both inward and out<g ref="char:EOLhyphen"/>ward, in principle and practice, in affection and action. <hi>I will make them one;</hi> that is, in Judgment and Principle. <hi>And they ſhall be one; i. e.</hi> in Worſhip and Practice. For it is ex<g ref="char:EOLhyphen"/>plained by that in <hi>Jer.</hi> 32.39. <hi>I will give them one heart, and one way, that they may fear me for ever. One heart</hi> without <hi>one way</hi> is unfruitful. And <hi>one way</hi> without <hi>one heart</hi> is hypocriti<g ref="char:EOLhyphen"/>cal; but <hi>one heart,</hi> and <hi>one way</hi> is no leſs then Angelical, for thereby his will is done on earth as it is in Heaven.</p>
+            <p>So that a full and compleat Union between, his People is here pointed at. <hi>I will make them one;</hi> that is, <hi>I will give them one heart. And they ſhall be one;</hi> that is, they ſhall walk in <hi>one way.</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 15.6.</note> And ſo <hi>with one mind, and one mouth they ſhall glorifie God.</hi>
+            </p>
+            <p>But <hi>thirdly,</hi> What is intended by being one in his hand? <hi>I will make them one ſtick, and they ſhall be one in my hand.</hi>
+            </p>
+            <p n="1">1. It points to the influencing power of God in bringing this oneneſs about. The Hand in Scripture is frequently put
+<pb n="7" facs="tcp:101233:9"/>
+for Power. So <hi>Deut.</hi> 32.36. <hi>The Lord ſhall repent himſelf for his ſervants, when he ſees that their powers are gone</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) that their hand is gone, <hi>Dan.</hi> 6.27. <hi>He hath delivered</hi> Daniel <hi>from the power of the lions,</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) ſo the <hi>Chaldee,</hi> from the <hi>hand of the lions.</hi>
+               <note place="margin">
+                  <hi>Iſa.</hi> 11.11.25.10.</note> So here the hand of God implys his power; and indeed the curing the diviſions of his peo<g ref="char:EOLhyphen"/>ple, is a work that calls for a mighty power. <hi>Odia religionum acerbiſſima. Solomon</hi> ſays, <hi>The contentions of brethren are like the bars of a caſtle, Prov.</hi> 18.19. It is ſo of ſuch as are brethren by <hi>place</hi> or <hi>race,</hi> and it is ſo much more (the more is the pity) among ſuch as are brethren by <hi>grace; corruptio optimi peſſima.</hi> It made <hi>Strigelius</hi> weary of living,<note place="margin">Melch. Adam. in vita.</note> and wiſh to depart out of the world, that he might be freed <hi>ab immanibus &amp; implacabili<g ref="char:EOLhyphen"/>bus odiis Theologorum.</hi> Therefore <hi>Solomon</hi> compares them to the <hi>bars of a caſtle,</hi> very ſtrong, and hardly bowed or broken. None can do it but God; and when he by the power of the ſpirit of love and union breaks theſe bars in ſunder, then they become <hi>one in the hand of the Lord.</hi>
+            </p>
+            <p n="2">2. It implies a union in the Truth; every union is not a being one in Gods hand. There may be union in ſin, a uni<g ref="char:EOLhyphen"/>on in errour. <hi>All the world wondered after the beaſt;</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 13.3.</note> a union to ſupport the Antichriſtian Intereſt. It is ſaid of the ten horns, <hi>theſe have one mind, and ſhall give their power and ſtrength to the beaſt, Revel.</hi> 13.12, 13. Now this is ſo far from being a union in the hand of God, that it is the quite contrary, it is union in the hand of Satan. If we are not united in the truth, whatever our union may be, yet we cannot be ſaid to be <hi>one in the hand of the Lord.</hi>
+            </p>
+            <p n="3">3. It implys the reality and cordialneſs of this union, <hi>a love without diſſimulation;</hi> you read of an 144000 <hi>which ſtand with the Lamb upon Mount Sion, Revel.</hi> 14.1. And here are two things mentioned concerning them to our purpoſe; their uni<g ref="char:EOLhyphen"/>ty, and their ſincerity: oneneſs and uprightneſs.</p>
+            <p>Here is their unity in Doctrine pointed at in their number, 144000, which is a number rooted in twelve, to ſhew that they were all built upon that one foundation of the twelve Apoſtles, of which Chriſt was the corner ſtone, and that their Doctrine and worſhip is pure and Apoſtolical.</p>
+            <p>
+               <pb n="8" facs="tcp:101233:10"/>Then here is their unity in Profeſſion; they have all one name,<note place="margin">
+                  <hi>Ver.</hi> 1.</note> written in one place, <hi>they have his fathers name written in their foreheads;</hi> that is, they make the ſame open and viſible profeſſion of their ſubjection and obedience to the ſame autho<g ref="char:EOLhyphen"/>rity, Government, Laws, and Ordinances of God, and our Lord Jeſus Chriſt.</p>
+            <p>Then here is their unitedneſs in bleſſing and praiſing God. This is intimated by their having the ſame Inſtruments, and the ſameneſs of their Song.<note place="margin">
+                  <hi>Ver.</hi> 2.</note> They all <hi>harp upon their harps,</hi> and they all <hi>ſung as it were a new Song before the Throne.</hi>
+            </p>
+            <p>Then here is mention of their Oneneſs in keeping their Conſciences pure from all Idolatrous Worſhip, and Antichri<g ref="char:EOLhyphen"/>ſtian pollutions.<note place="margin">
+                  <hi>Ver.</hi> 4.</note> 
+               <hi>Theſe are they which are not defiled with wo<g ref="char:EOLhyphen"/>men, for they are Virgins.</hi>
+            </p>
+            <p>To name no more, here is their Unity in true Worſhip. <hi>Theſe are they which follow the Lamb whither ever he goes.</hi>
+               <note place="margin">
+                  <hi>Ver.</hi> 4.</note>
+            </p>
+            <p>And that which crowns all, and puts a Glory upon this bleſſed Union is,<note place="margin">2 <hi>Cor.</hi> 1.12.</note> that it is done <hi>in ſimplicity and godly ſincerity,</hi> without any antichriſtian equivocations, or mental reſervati<g ref="char:EOLhyphen"/>ons. Therefore it is ſaid, <hi>ver.</hi> 5. <hi>In their mouth was found no guile, for they are without fault before the Throne of God.</hi>
+            </p>
+            <p>My Brethren, if our Union be of this kind, without guile if it be founded in ſincerity, and uprightneſs of heart to God, then are we without fault before the Throne, <hi>and one in the hand of God.</hi>
+            </p>
+            <p n="4">4. Such a Union will be an abiding, induring Union. And ſo much is implied in the words, wherein there ſeems to be a double promiſe of it intimated. God doth not only ſay, <hi>I will make them one,</hi> which imports a Union for the preſent; but <hi>they ſhall be one;</hi> which ſecures this Union for the future, it ſhall abide when once effected; for therefore he adds, <hi>They ſhall be one in my hand,</hi> q. d. The ſame power that hath accompliſhed, and brought it to paſs, ſhall alſo preſerve and maintain it.</p>
+            <p>That which is made <hi>one</hi> in the hand of the Lord ſhall be always <hi>one, None ſhall pluck them out of my hand.</hi> And <hi>v.</hi> 23. <hi>They ſhall no more defile themſelves with any of their tranſgreſſions,</hi> of which their diſcords and diviſions were none of the leaſt; and therefore he adds in the ſame verſe, <hi>So ſhall they be my people, and I will be their God.</hi>
+            </p>
+            <p>
+               <pb n="9" facs="tcp:101233:10"/>They were his People, and he was their God before: but here he renews his Covenant with them, as brought into a ſtate of union. This is implied in this <hi>(So), So ſhall they be my people, and I will be their God.</hi> His Covenant is renewed with them, not only as glorying in their union, for now <hi>he is not aſhamed to be called their God;</hi> but alſo as confirming of it.</p>
+            <p n="5">5. Here is alſo implied the extenſiveneſs of this Union. <hi>They ſhall be one in my hand.</hi> Who are intended by this <hi>They?</hi> It reaches to all, at home and abroad, in City and Country. <hi>One ſtick</hi> is to be written upon, not only for <hi>Judah,</hi> but <hi>for all his Companions.</hi> And the other <hi>ſtick</hi> not only for <hi>Ephraim,</hi> but for <hi>all the Houſe of Iſrael his Companions.</hi>
+               <note place="margin">
+                  <hi>Ver.</hi> 16.</note> Theſe are <hi>They</hi> of whom God ſays, <hi>I will make them one, and they ſhall be one in my hand.</hi> It ſhall be an extenſive Union. So it is explained, <hi>v.</hi> 21. <hi>I will gather them on every ſide.</hi> And <hi>v.</hi> 22. <hi>One King ſhall be King to them all.</hi> And <hi>v.</hi> 24. <hi>They all ſhall have one Shepherd.</hi>
+            </p>
+            <p>When God undertakes to unite his People, he will make it a compleat Work.</p>
+            <list>
+               <item>It ſhall be a Union in the Truth.</item>
+               <item>It ſhall be a Union in Principle and Practice.</item>
+               <item>It ſhall be a cordial and ſincere Union.</item>
+               <item>It ſhall be an extenſive Union.</item>
+               <item>And it ſhall be an abiding Union.</item>
+            </list>
+            <p>And this may ſuffice for the opening the Terms. Many uſeful Truths might be deduced from the words; but the on<g ref="char:EOLhyphen"/>ly thing I ſhall pitch upon, and ſpeak briefly to, ſhall be this.</p>
+            <p>That it is God alone who can heal the Diviſions,<note place="margin">Doct.</note> and unite the hearts of his People, and whenever he doth do it, it is a great mercy.</p>
+            <p>I ſhall ſpeak to the Point under two Heads.</p>
+            <p n="1">I. It is God alone who can heal the Diviſions which are among his People, and make them one.</p>
+            <p n="2">II. When God is pleaſed to heal the Diviſions of his People, and make the <hi>two ſticks one,</hi> it is a great mercy.</p>
+            <p n="1">
+               <pb n="10" facs="tcp:101233:11"/>1. It is God alone that can heal the Diviſions that are a<g ref="char:EOLhyphen"/>mong his People, and make them One. And this will be e<g ref="char:EOLhyphen"/>vident, if</p>
+            <p n="1">1. We do but conſider the Source of their Diviſions, from whence they ſpring. The Roots which produce and nouriſh them.</p>
+            <p n="1">(1.) One is from the Malice of Satan. He is the envious One that ſows theſe Tares. He is the great Incendiary, that uſes all Arts to divide and ſeparate the People of God. He loves to ſet his <hi>cloven foot</hi> in the place of God's <hi>feet.</hi> So the Church is call'd, <hi>Iſa.</hi> 60.15.</p>
+            <p>Now no Power but that of God can <hi>bind</hi> him and <hi>cast</hi> him out, <hi>Rev.</hi> 20.2.</p>
+            <p n="2">(2.) From difference of Apprehenſion. Good men may agree in <hi>one Aim,</hi> and yet not in <hi>one way;</hi> the End may be the ſame, tho the Means vary. It is difference of Light that cauſes difference of Judgment; and that works to divide the Affections, and then all is on a flame. Ye read <hi>Revel.</hi> 15.2. of them that had <hi>gotten the Victory over the Beaſt, and over his Image, and mark, and number of his Name,</hi> and yet <hi>they ſtand upon a Sea of Glaſs mingled with Fire.</hi>
+            </p>
+            <p>And this is ſuch a Fire as none but God can quench.</p>
+            <p n="3">(3.) They ſpring from corrupt Principles and Luſts within. What the Apoſtle ſays of worldly Contentions, we may ſay of ſpiritual. <hi>Whence come wars and fightings among you? come they not hence, even of your Luſts that war in your Members?</hi> James 4.1. There are ſome Luſts eſpecially that make good men a burden to each other. Such as Pride, and Vain glory, Love of the World, Ambition, and deſire of Precedency, envy at anothers Repute, irregular Zeal, and ſuch like; theſe make us very touchy, and to become <hi>Pricking briers,</hi> and <hi>grieving Thorns</hi> among our ſelves. There hath been too much experience of this in theſe <hi>Dog-days</hi> of the Church, wherein ſo many have been barking and biting at one another.</p>
+            <p>Man's Nature is ſo prone to Diſcords through the influence of theſe remaining Luſts, that they would no more unite then crumbs of Sand, did not God bring it about, and make them <hi>One</hi> in his hand. Therefore it is ſaid, <hi>I will make them One, and they ſhall be One in my hand.</hi>
+            </p>
+            <p n="2">
+               <pb n="11" facs="tcp:101233:11"/>2. It is a Prerogative peculiar to God. The Text inti<g ref="char:EOLhyphen"/>mates ſo much, <hi>they ſhall be one in my hand.</hi> No <hi>Oneneſs</hi> if God hath not a hand in it. Men may uſe means, and con<g ref="char:EOLhyphen"/>trive methods for Union, but it is not the policy or skill of all the Reconcilers in the World can bring it about, without God.</p>
+            <p>How many have brought their Buckets to quench the Churches Flames. Many Antidotes have been preſcribed, many Rules and pacific Means have been commended by wiſe and good men for the Cure of our Diviſions. But <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, there wants a Divine Power within.</p>
+            <p>Men may take <hi>two Sticks</hi> and tie them together, or glue them to each other. But nothing will make them <hi>one Stick,</hi> but the hand of God. Hence he is called <hi>the God of Peace, Hebr.</hi> 13.20. and he is ſaid to <hi>create Peace, Iſa.</hi> 45.7. Now you know Creation is making ſomething out of no<g ref="char:EOLhyphen"/>thing. And indeed ſo is this. Look throughout this whole tranſaction, from firſt to laſt, and you can't find any thing out of which this Union ſhould be formed. Either Wiſdom, or Power, or Strength, or Policy, or any thing elſe. It is a pure Creation, for it is out of nothing. And this you have in your Preface expreſſed a due ſenſe of, in giving to him the glory of his Power, by aſcribing the Succeſs of theſe Attempts to the <hi>ſignal Preſence</hi> of God.</p>
+            <p n="3">3. If the Breaches and Diviſions that at any time fall out among the Lord's People be a Judgment from the Lord, then he alone can make them One. For who can remove a Judg<g ref="char:EOLhyphen"/>ment that comes from God, but God himſelf? the ſame hand that wounds, muſt heal. <hi>He hath ſmitten, and he will bind us up.</hi>
+               <note place="margin">
+                  <hi>Hoſ.</hi> 6.1.</note>
+            </p>
+            <p>Now the Diviſions that are among Gods People, tho they proceed from ſin originally, yet there is a Judicial Diſpenſation in them. <hi>Hear, O ye Mountains, the Lord's Controverſie, Mich.</hi> 6.2. All their inteſtine Diviſions are the Lords Controverſie. This is one way by which God <hi>avenges the quarrel of his Cove<g ref="char:EOLhyphen"/>nant, Lev.</hi> 26.25. When his People break with him, then he breaks them one againſt another. <hi>Jer.</hi> 13.13, 14. <hi>I will fill all the Inhabitants of the Land, the Kings, the Prieſts, and the
+<pb n="12" facs="tcp:101233:12"/>
+Prophets, and all the Inhabitants of</hi> Jeruſalem <hi>with drunkenneſs, and I will daſh them one againſt another.</hi> So Zech. 11, 14. <hi>I cut aſunder my Staff of Bands, that I might break the Brotherhood be<g ref="char:EOLhyphen"/>tween</hi> Judah <hi>and</hi> Iſrael. Ye read in <hi>Iſa.</hi> 9.21. of <hi>Manaſſeh a<g ref="char:EOLhyphen"/>gainſt</hi> Ephraim, <hi>and</hi> Ephraim <hi>againſt</hi> Manaſſeh, <hi>and they toge<g ref="char:EOLhyphen"/>ther againſt</hi> Judah. And this is ſaid to be <hi>from the Wrath of the Lord of Hoſts,</hi> verſ. 19. And what Wiſdom or Skill of Men can quench this Wrath of God? it muſt be God himſelf. As fire is ſaid to fetch out fire, ſo nothing can extinguiſh this fire of God's Anger, but the kindling of his own Repentings. <hi>How ſhall I give thee up</hi> Ephraim?<note place="margin">
+                  <hi>Hoſ.</hi> 11.8.</note> 
+               <hi>my heart is turned within me, and my repentings are kindled together.</hi> And he is ſaid to <hi>repent himſelf for his ſervants when he ſees their power is gone,</hi> Deut. 32.36. When their Wound is incurable for want of healing Medicines, then God will plead their Cauſe, and the Wound ſhall be bound up. For he glorieth in this Title, <hi>I am the Lord that healeth thee,</hi>
+               <note place="margin">
+                  <hi>Jer.</hi> 30.13.</note> Exod. 15.26.</p>
+            <p n="4">4. This will further appear, if you conſider the Seaſon of this bleſſed Cure. Uſually it is when his People are brought very low. The virtue of his Medicines is beſt known when the Wound is deſperate, and to the eye of Senſe, paſt heal<g ref="char:EOLhyphen"/>ing.</p>
+            <p>God reſerves the ſpeaking of this Comfort till the Church is brought into a <hi>Wilderneſs.</hi>
+               <note place="margin">
+                  <hi>Hoſ.</hi> 2.14.</note> How is it that the <hi>Bones</hi> are brought together, <hi>bone to his bone,</hi> but by the <hi>Breath of the Lord?</hi> and when did this breath enter into them, but when they were ſcattered <hi>in the open Valley,</hi>
+               <note place="margin">
+                  <hi>Ezek.</hi> 37.2.</note> and <hi>Lo they were very dry?</hi> No Life, no expectation, no hope of Union; <hi>Behold, they ſay our Bones are dried,</hi>
+               <note place="margin">
+                  <hi>Ver.</hi> 11. <hi>Ver.</hi> 7.</note> 
+               <hi>our hope is loſt.</hi> Then <hi>behold a ſhaking, and the bones came together, bone to his bone.</hi> And when doth God command the Prophet to write upon <hi>Judah</hi> and <hi>Ephraim,</hi> but when they were in a very low, and hopeleſs Condition? and therefore he muſt write upon <hi>two Sticks.</hi> A Stick is a dead thing, a dry thing, a withered thing; a fit Emblem of the low Condition they were in.<note place="margin">
+                  <hi>Dan.</hi> 5.25.</note> And what is the writing upon your <hi>Sticks</hi> at this time? Not a <hi>Mene tekel upharſin.</hi> No, bleſ<g ref="char:EOLhyphen"/>ſed be God, but the quite contrary: <hi>Heads of Agreement, uni<g ref="char:EOLhyphen"/>ted Brethren.</hi> A bleſſed Hand-writing; and if it be not writ<g ref="char:EOLhyphen"/>ten
+<pb n="13" facs="tcp:101233:12"/>
+upon <hi>dry Sticks</hi> judge you. So that none could have cau<g ref="char:EOLhyphen"/>ſed this to be written, if God had not ſaid to us, as he did to the Prophet, <hi>Son of Man, write upon them.</hi> And therefore what the Apoſtle ſays in another caſe, I may ſay in this, <hi>Ye are manifeſtly declared to be the Epiſtle of Christ,</hi>
+               <note place="margin">2 <hi>Cor.</hi> 3.3.</note> 
+               <hi>written not with Ink, but with the Spirit of the Living God.</hi>
+            </p>
+            <p n="2">2. When God is pleaſed thus to heal the diviſions of his people, and make the <hi>two ſticks one</hi> in his hand, it is a great mercy. For</p>
+            <p n="1">1. When God doth this, it is to accompliſh the promiſe, and every promiſe travels with mercy; there can be nothing but mercy in the promiſe; therefore when ever it brings forth, the birth muſt be mercy.</p>
+            <p>Now God hath made great promiſes concerning the peace and <hi>oneneſs</hi> of his people. <hi>The envy of Ephraim ſhall depart, he ſhall not envy Judah, and Judah ſhall not vex Ephraim,</hi> Iſa. 11.13. v. 6. <hi>The wolf ſhall dwell with the Lamb, and the Leopard ſhall lie down with the Kid. The Cow and the Bear ſhall feed, their young ones ſhall lie down together.</hi> The meaning is, that all ſourneſs, and fierceneſs, and bitterneſs of ſpirit ſhall ceaſe among the ſubjects of Chriſt, and a ſpirit of love and ſweetneſs ſhall take place, and heal all.</p>
+            <p>Ye have many promiſes of this kind, and ſome that have a more direct aſpect to the laſt times, and therefore look wiſhly upon us. Such is that in, <hi>Zeph.</hi> 3.9. <hi>Then will I turn to the people a pure language, that they may call upon the Name of the Lord, and ſerve him with one conſent.</hi> So Zech. 13.19.<note place="margin">
+                  <hi>Deut.</hi> 32.4.</note> 
+               <hi>In that day the Lord ſhall be one, and his Name one.</hi> But is not his Name one now? yea, in itſelf it is. <hi>He is the God of truth,</hi> that is his Name. But while there are different ways of profeſſion, and each party intitles God to his particular way, this gives him many Names; the differing claims that divided intereſts make to God, give him many Names. But <hi>in that day his Name ſhall be one;</hi> differing ways and modes of Worſhip ſhall ceaſe, all his people ſhall be united in the ſame mind and judge<g ref="char:EOLhyphen"/>ment, and ſhall own God in the ſame truth, and the ſame way of worſhip, and ſo <hi>his Name ſhall be one.</hi>
+            </p>
+            <p>But this day is ſaid to be when Chriſt ſhall be King over all
+<pb n="14" facs="tcp:101233:13"/>
+the earth, <hi>Chriſt ſhall be King over all the earth, and in that day the Lord ſhall be one, and his Name one.</hi>
+            </p>
+            <p>This is that Chriſt promiſes in the New Teſtament, <hi>John</hi> 10.16. <hi>There ſhall be one fold, and one ſhepard.</hi>
+            </p>
+            <p n="2">2. It is a great mercy in that the ruine of their enemies fol<g ref="char:EOLhyphen"/>lows upon it. You ſeldom read of any great healing among the Churches and people of God, but their enemies have ſoon felt the effects of it. It is no ſooner ſaid in <hi>Iſa.</hi> 11.13. <hi>The en<g ref="char:EOLhyphen"/>vy of Ephraim ſhall depart,</hi> but the next words are, <hi>The adver<g ref="char:EOLhyphen"/>ſaries of Judab ſhallbe cut off.</hi> His work is no ſooner perform<g ref="char:EOLhyphen"/>ed upon <hi>Mount Sion,</hi> but the next work is the pulling down the <hi>Aſſyrian,</hi> Iſ. 10.12. and in <hi>Iſ.</hi> 15.10. No ſooner are Gods people one in his hand, but his enemies are trod under his feet, <hi>as ſtraw is trodden down for the dunghil.</hi> And 1 <hi>Revel.</hi> 19.14. the Saints are ſaid to follow Chriſt <hi>cloathed in fine linnen, clean and white;</hi> their cloathing ſhows their <hi>holineſs,</hi> and their following him, ſhews their <hi>oneneſs;</hi> and when they follow him thus cloathed, then you read of his <hi>ſharp ſword,</hi> and his <hi>iron rod,</hi> and his <hi>treading the wine preſs of the wrath of God</hi> upon his enemies, <hi>v.</hi> 15. all which is explained in the following words, to the end of the Chapter, where you have the Battle of <hi>Armageddon</hi> fought, and the Beaſt and falſe Prophet, and all the reſt of the Churches Enemies deſtroyed. And if the de<g ref="char:EOLhyphen"/>ſtruction of the Churches Enemies be a conſequent of their Union, then when God makes the <hi>two ſticks one,</hi> it is a great Mercy.</p>
+            <p>I might add,</p>
+            <p n="3">3. The notice that God would have to be taken of it, ſpeaks out the greatneſs of the mercy. <hi>That they may know from the riſing of the Sun to the Weſt, that there is none beſides me; I am the Lord, and there is none elſe; I make peace, and create evil,</hi> Iſa. 45.6.</p>
+            <p n="4">4. The bleſſings and proſperity that flow from this Union ſpeak the greatneſs of the mercy.<note place="margin">
+                  <hi>Pſal.</hi> 122.7.</note> When <hi>peace</hi> is <hi>within</hi> Jeru<g ref="char:EOLhyphen"/>ſalem<hi>'s walls,</hi> there will be <hi>proſperity within her Palaces.</hi>
+            </p>
+            <p>But I paſs theſe, and ſhall inſiſt only on this one thing, which will ſufficiently ſet forth the greatneſs of this Mercy and Union, and that is,</p>
+            <p n="5">
+               <pb n="15" facs="tcp:101233:13"/>5. The Evils and Diviſions among God's People. Their Name is <hi>Legion,</hi> they are ſo many. Nothing thrives where this Wolf ſets his foot. <hi>Where envy and ſtrife is, there is confu<g ref="char:EOLhyphen"/>ſion, and every evil work,</hi> James 3.16. It is the root of many bitter fruits. We read <hi>Gen.</hi> 38. that <hi>Pharez</hi> was the Son of <hi>Tamar. Pharez</hi> ſignifies Fraction and Diviſion, <hi>Tamar</hi> ſigni<g ref="char:EOLhyphen"/>fies a Palm-Tree. <hi>Ab amaritudine,</hi> ſay ſome, from bitterneſs.<note place="margin">Pagnine.</note> Diviſion comes from bitterneſs, and brings forth bitter fruits.<note place="margin">
+                  <hi>Deut.</hi> 32.31.</note> 
+               <hi>The grapes of it are grapes of gall, the cluſters are bitter.</hi>
+            </p>
+            <p>For inſtance:</p>
+            <p>Your Diviſions are very diſhonourable to Jeſus Chriſt, they cauſe his Name to be blaſphemed in the World, <hi>Rom.</hi> 2.24. Nay, it is an implicite denying him to be come in the fleſh. For when he comes, this is to be one effect of it,<note place="margin">
+                  <hi>Iſa.</hi> 11 6.</note> 
+               <hi>The wolf ſhall dwell with the lamb,</hi> &amp;c.</p>
+            <p>It is one Argument the Jews have againſt Chriſt's being come, becauſe this Prophecy is not fulfilled.</p>
+            <p>My Brethren, Is the Lord Chriſt come into the World, or is he not? If not, why do ye own it? If he is, why don't ye manifeſt it? It is your Union that muſt prove Chriſt's Miſſion.</p>
+            <p>Chriſt prays for the Oneneſs of his Diſciples for this very end, <hi>John</hi> 17.21. <hi>That they all may be one, that the world may believe that thou haſt ſent me.</hi> And again, <hi>v.</hi> 23. <hi>Let them be perfect in one, that the world may know that thou haſt ſent me:</hi> As if Chriſt ſhould ſay, the World will never believe, that thou haſt ſent me, that my Doctrine is true, if they that profeſs it live not in the power of it, and are not made <hi>one</hi> by it. Thou art Love, and what ſhall convince the World that I came out of the Boſome of the Father's love, when my Diſciples hate one another? Oh how diſhonourable to Chriſt muſt this be!</p>
+            <p n="2">2. Diviſions are a great grief to the Spirit of God, and we are commanded not to grieve him, <hi>Eph.</hi> 4.30. <hi>Grieve not the holy ſpirit of God.</hi> Have ye not your light and life from the Spirit? Did not he convince, and convert, and draw you to Chriſt? Was it not he that lead you into the Secrets of God? that revealed the Myſteries of the Kingdom, the deep Things of God, and Eternal Life to you? Your Calling had never been
+<pb n="16" facs="tcp:101233:14"/>
+effectual, if the Spirit had not been in it, to make it ſo. Are not your Parts,<note place="margin">2 <hi>Cor.</hi> 12.4.</note> and Gifts, and various Attainments, all from the Spirit? And is not every Grace, and every Degree of Grace in you, the Workmanſhip of the Spirit? And is it not the Spirit that quickens you in Duties, and maintains in you a frame of heart for communion with God? Who is it that comforts your Souls in troubles,<note place="margin">1 <hi>Cor.</hi> 1.4.</note> and that teaches you to com<g ref="char:EOLhyphen"/>fort others? that helps you againſt Corruptions within, and Temptations without? that conquers your Difficulties, and inables you to rejoyce in Tribulation? Is it not the Spirit? Is not he the <hi>earneſt of your inheritance?</hi>
+               <note place="margin">
+                  <hi>Eph.</hi> 1.14. <hi>Eph.</hi> 4.30.</note> Hath he not <hi>ſealed you to the day of redemption?</hi> and will you grieve this Spirit? Oh what an evil is this!</p>
+            <p n="3">3. There is nothing more contrary to Chriſtianity; and yet we cover our Diviſions under the cloak of Religion, the very Name whereof carries Union with it. <hi>Religio à religan<g ref="char:EOLhyphen"/>do:</hi> It is the Bond of God upon the Soul, that binds us all to himſelf, and one to another. As God is the <hi>God of Peace,</hi> Chriſt the <hi>Prince of Peace,</hi>
+               <note place="margin">
+                  <hi>Eph.</hi> 6.15.</note> the Holy Ghoſt the <hi>Spirit of Peace,</hi> his Chil<g ref="char:EOLhyphen"/>dren the <hi>Children of Peace;</hi> ſo the Goſpel you profeſs, and preach, is the <hi>Goſpel of Peace,</hi> full of Precepts of Peace; you are,<note place="margin">
+                  <hi>Rom.</hi> 12.18. <hi>Mark</hi> 9.50.</note> 
+               <hi>if it be poſſible, and as much as in you lies, to live peaceably with all men,</hi> much more to <hi>have peace one with another;</hi> elſe you violate your Baptiſmal Covenant,<note place="margin">1 <hi>Cor.</hi> 12.13.</note> 
+               <hi>For by one ſpirit we are are all baptized into one body, whether we be Jews or Gentiles, bond or free.</hi> And what an evil is this? It is Death to force a Virgin, what is it then to defile a pure and holy Religion?</p>
+            <p n="4">4. Diviſions are the cauſes of much ſin. Shake a Glaſs of Water that hath dregs in the bottom, and the ſhaking ſtirs it, and ſpreads it all over. I have often thought of that Counſel of the Apoſtle, <hi>Eph.</hi> 4.26. <hi>Let not the ſun go down upon your wrath.</hi> It muſt be ſpeedily ſuppreſſed, for if we lie down in our heats, we ſhall be apt to burn all the Night. It was a Cuſtom formerly in this Nation, that every Night at the 8th hour, a Bell was rung, and then every Family was obliged to put out their Fire; and this was called the <hi>Curfew</hi> Bell.</p>
+            <p>We have need of ſuch a Monition every hour to cover the Fire of our Paſſions, leaſt they kindle, and burn up all. <hi>Behold how great a matter a little fire kindles, Jam.</hi> 3.5.</p>
+            <p n="5">
+               <pb n="17" facs="tcp:101233:14"/>5. Diviſions are againſt Love, as Error is againſt Faith: It <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> aſunder the bond of Peace.<note place="margin">Amos 6.11.</note> 
+               <hi>The great houſe is ſmitten with breaches, and the little houſe with clefts.</hi> Not only Kingdoms, but Churches are deſtroyed when their Guides and Leaders are divided in opinion, and affection. One carps at anothers Gifts, decries anothers Miniſtry, ſtands in the way of anothers Hon<g ref="char:EOLhyphen"/>our; like men in a Boat, one juſties another, till among them they ſink the Boat it ſelf. O the evil of Diviſions! It was not therefore without moſt cogent Reaſon that Chriſt prays for his own Apoſtles, (Joh. 17.11.) <hi>that they may be one.</hi>
+            </p>
+            <p n="6">6. Diviſions are the fruits of the Fleſh. The Apoſtle tells us <hi>The fruits of the Spirit are love, peace, gentleneſs and meekneſs,</hi> Gal. 5.22. <hi>but the fruits of the Fleſh are hatred, variance, emu<g ref="char:EOLhyphen"/>lation, ſtrife, and envyings;</hi> ver. 20. So that a man can't evi<g ref="char:EOLhyphen"/>dence himſelf to be in the Fleſh, and deſtitute of the Spirit of God in any thing more than by a contentious dividing Spirit. The Apoſtle ſays ſo, 1 Cor. 3.3. <hi>If their be envyings, and ſtrifes, and diviſions among you, are ye not carnal?</hi> They are <hi>Salamanders</hi> that can live only in this Fire. And then I may ask, <hi>but who is their Father?</hi> For the Wiſdom that is from beneath is ſenſual, and deviliſh, the Mother of ſtrife and diviſion.<note place="margin">Jam. 3.15. Ver. 17.</note> But the <hi>wiſdom that is from above is pure, and peaceable.</hi> O how ſad is it when the Fleſh thus reigns in the Children of the Spirit.</p>
+            <p n="7">7. Diviſion naturally runs into Tumult and Confuſion. It makes <hi>Zion</hi> to become a <hi>Babel.</hi> It ſo confounds the Language of Chriſtians, that one can't underſtand another. As when a Houſe is on Fire, ſome call for Water, ſome for Ladders, ſome for pulling down the Houſe: Such is the confuſion where this Fire breaks out in the Houſe of God.</p>
+            <p n="8">8. Nothing more obſtructs the flouriſhing of Religion. And how ſad is it, that the Intereſt and concerns of Chriſt ſhould wither under our hands.</p>
+            <p n="9">9. Nothing becomes a greater ſtumbling block to turn others out of the way of God. Diviſion in the Church begets Atheiſm in the World. Men charge all the faults of Profeſſors upon the Religion they profeſs, and thereby contract ſuch prejudices a<g ref="char:EOLhyphen"/>gainſt it as can never be rooted out. O what an evil is this!</p>
+            <p n="10">10. Nothing becomes a greater Joy to our Adverſaries, nor gives them a greater advantage to undermine and deſtroy us.
+<pb n="18" facs="tcp:101233:15"/>
+While two Birds are pecking one at another, the Kite comes and ſoops away both. Our Contentions make us firſt a laugh<g ref="char:EOLhyphen"/>ing-ſtock, then a prey to our Enemies; and therefore they are a ſad forerunner of ruine.<note place="margin">Hoc Ithacus vetit, <hi>&amp;c.</hi>
+               </note> When <hi>Abraham</hi> went to Sacrifies his <hi>Iſaac,</hi> he found a <hi>Ram</hi> intangled in the Briars, which God had prepared for a Sacrifice; and if we are intangled in theſe Briars, we may juſtly fear we are prepared to be a Sacrifice.</p>
+            <p>Theſe are ſome of the many Evils which might be reckoned up, that are in the diviſions of Gods People, which may ſerve to ſet forth the bleſſing, and advantage of Union. And therefore when God binds up the breaches of his People, and makes the <hi>two ſticks one,</hi> it is a great mercy.</p>
+            <p>Shall I not make a little Application of this? I know to whom I ſpeak, which makes it needleſs; but <hi>for Sions ſake I will not hold my peace.</hi>
+               <note place="margin">Iſa. 62.1.</note>
+            </p>
+            <p>This Text affords two Uſes that ſuit the end of this days appointment, which you have ſet apart, partly for Humbling, and partly for rejoycing.</p>
+            <q>
+               <l>Here is matter of Humbling, that the people of God ſhould be <hi>two ſticks.</hi>
+               </l>
+               <l>Here is matter of Reioycing that God hath made the <hi>two ſticks one.</hi>
+               </l>
+            </q>
+            <p n="1">1. Let us Humble our ſelves before the Lord for our former Diviſions. Is their not a Cauſe? when God calls to <hi>contend by Fire,</hi>
+               <note place="margin">Hoſ. 7.4. Iſa. 19.2.</note> it is a Token of his Anger. It is in favour to <hi>Iſrael</hi> when he <hi>ſets the Egyptians againſt the Egyptians;</hi> but when <hi>Ephraim,</hi> and <hi>Manaſſeh</hi> are divided,<note place="margin">Iſa. 9.21.</note> there is the Anger of God in it, and that ſhould be matter of Mourning. And indeed the only way to a firm Union is to lay the foundation of it in ſhame and tears for paſt Diviſions. Even in this ſenſe <hi>God lays the beams of his chambers in the waters,</hi>
+               <note place="margin">Pſal. 104.3.</note> 
+               <hi>and makes the clouds his chariot.</hi> There is no building without Mortar to hold the ſtones together, and there it no Mortar without Water. When <hi>Iſrael</hi> and <hi>Judah</hi> come out of <hi>Babylon,</hi> and inquire the way to <hi>Sion,</hi> and joyn
+<pb n="19" facs="tcp:101233:15"/>
+in a Covenant Union, it is all done in Tears, Jer. 50.4, 5. <hi>In thoſe days, and in that time, ſaith the Lord, the children of Iſrael ſhall come, they and the children of Judah together, going and weeping, they ſhall go and ſeek the Lord their God. They ſhall ask the way to Zion with their faces thitherward, ſaying, Come, let us joyn our ſelves to the Lord in a perpetual covenant that ſhall not be forgotten.</hi>
+            </p>
+            <p>They uſe in Faggotting either to twiſt the bands with ſome ſap in them, or to lay them for a time in water, for when dry, they'l ſnap; but they'l bend and hold the twiſting when well ſoaked. So the deeper your Humiliation is, the more durable will your Union be. Their is much cauſe of Humbling on this account.</p>
+            <p>For the Pride of our hearts, <hi>only by pride comes contention.</hi>
+            </p>
+            <p>For the diſhonour done to God by theſe differences.</p>
+            <p>For the reproach brought upon his ways.</p>
+            <p>For the offences and ſcandals given to many, whereby their Souls have been eternally hazarded: And ſhould not the ſenſe of this affect us? Some diſeaſes are called <hi>opprobria medicorum,</hi> I am ſure theſe are <hi>opprobria Theologorum.</hi> O let us joyn in this one thing, to mourn together, till we have diſſolved our hearts into tears, and ſee if they'l cun one into another, and let us re<g ref="char:EOLhyphen"/>ſolve that nothing ſhall comfort them, but peace with God, and peace with one another.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> 2. When we have thus <hi>paſſed through the valley of Baca,</hi>
+               <note place="margin">Pſal. 84.6.</note> and in this ſenſe <hi>made it a well,</hi> we may then go on to <hi>Berachah,</hi> and ſit down there, bleſſing and rejoycing in God, who hath made the <hi>two ſticks one</hi> in his hand. If any thing ſhould affect us, the great appearance of God ſhould, wherein he hath put forth ſo much of his Power, Wiſdom, Love, and Mercy.</p>
+            <p>Is it not a mercy you have long deſired and prayed for? And God hath this day returned your prayers, like <hi>Noah</hi>'s Dove, with an Olive Branch in the mouth. How long did our Fathers ſow in Tears for this Harveſt, and God hath reſerved the reap<g ref="char:EOLhyphen"/>ing time for us their Children?<note place="margin">Iſa. 9.3.</note> And therefore let us <hi>joy before him according to the joy in Harveſt.</hi>
+            </p>
+            <p>This day hath the Lord rolled away our reproach,<note place="margin">Joſh. 5.9.</note> for what hath been the reproach we have been ſilled with? Is it not that
+<pb n="20" facs="tcp:101233:16"/>
+we have been a divided people, crumbling into Factions and Par<g ref="char:EOLhyphen"/>ties, fill'd with mutual animoſities and jarrs, envying and hating one another? Now God hath brought us to <hi>Gilgal,</hi> for this day is the reproach rolled away; and ſhall not God have the glory of this?</p>
+            <p>You have this day made up one great Breach at which Judg<g ref="char:EOLhyphen"/>ment uſed to enter.<note place="margin">Ezek. 13.5.</note> Ye have <hi>gone up into the gaps, and made up the hedge for the houſe of Iſrael.</hi> You have this day recover<g ref="char:EOLhyphen"/>ed your ſtrength. Diviſion is a weakening thing: A Kingdom, a Houſe, a Church divided cannot ſtand. Untwiſt a Cable and it is eaſily broken. Divide the ſtrongeſt Current into many ſtreams, and it becomes ſhallow and weak.</p>
+            <p>You know the ſtory of <hi>Scilurus</hi> who had Eighty Sons, on his Death-bed he cauſed a bundle of Arrows to be brought, and given to them, and bids them break it; when they had tried ſucceſſively, they anſwered, that it was not to be done. He bids them take them one by one, and then the work was eaſie. Thereupon he tells his Sons, if ye agree together you will be ſtrong, and invincible; but if you divide, you'l be weak, and eaſily overcome. God hath in this agreement bundled up his Arrows together; he hath made the <hi>two ſticks one;</hi> and this is your ſtrength in the hand of the Lord. Therefore <hi>he that glo<g ref="char:EOLhyphen"/>rieth let him glory in the Lord.</hi>
+            </p>
+            <p>You have done that in this agreement that promiſes great ad<g ref="char:EOLhyphen"/>vantage and comfort to our brethren abroad; it is like the beams of the Sun which diffuſe light and heat to thouſands at once. And what can pleaſe and rejoyce you, who are by calling, by Duty, by Affection, Men of publick Spirits and Aims, more than to be made ſuch a bleſſing to the whole Intereſt of Chriſt through the Nation?</p>
+            <p>In this Union you have ſhewed a high Conformity to Chriſt, He is all for union. There is a union between him and the Fa<g ref="char:EOLhyphen"/>ther, a union between him and the Spirit, a union between him and the humane Nature, a union between him and all Believers. And it is ſuch a union as admits of no diſunion or diſſolution. Nothing can untie it: not faults and failures, not blots or ble<g ref="char:EOLhyphen"/>miſhes, no ſins or ſwervings. Ah how many infirmities, neg<g ref="char:EOLhyphen"/>lects, omiſſions, how many weakneſſes, wants, and wander<g ref="char:EOLhyphen"/>ings doth Chriſt ſee in us, and yet the union remains. Now
+<pb n="21" facs="tcp:101233:16"/>
+when we are <hi>like minded one to another according to Chriſt Jeſus.</hi> This highly glorifies God</p>
+            <p>This union is an hopeful means to reconcile others to Reli<g ref="char:EOLhyphen"/>gion, and bring them into the ways of Chriſt. It is ſaid of the Primitive Chriſtians, <hi>They walked with one accord;</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and what fruit had it? <hi>the Lord added to the Church daily ſuch as ſhould be ſaved.</hi> Acts 2.46, 47. How many have eſtranged themſelves from Religion, and caſt it off, becauſe of the feuds, and heats of its Profeſſors; afraid to touch it leſt they burn their Fingers in the fiery contentions that are kindled by reaſon of it.</p>
+            <p>Mr. <hi>Cotton,</hi> on the 2d. <hi>Cant.</hi> 7. <hi>I charge you, O ye daughters of Jeruſalem, by the Roes and by the Hinds of the field, that ye ſtir not up, nor awake my love till he pleaſe;</hi> ſenſeth the words thus: By the Roes and Hinds are meant young beginners, per<g ref="char:EOLhyphen"/>ſons under ſome preparatory work towards Converſion, who are as ſhy and fearful as Roes and Hinds, who are affrighted, and run at the barking of a Dog; ſo will theſe at any offences in the Churches of Chriſt. O how many have fallen and been turned out of the way, by the fatal ſtumbling blocks, which our diviſions have laid in the way of their Converſion. Now God hath this day taken away the ſtumbling block, by making the <hi>two ſticks one in his hand.</hi> And ſhould we not bleſs God for this?</p>
+            <p>God hath intitled you by this agreement to the many and great bleſſings that are promiſed in this Chapter to this work. Do but ſee what promiſes God makes as a conſequent of it.</p>
+            <p n="1">1. It ſhall be an abiding union. When God unites his people; who or what can divide them? Unions made by the policy and arts of Men for carnal ends and intereſts, may be broken; but a union made by God and his Spirit ſhall not be broken. There<g ref="char:EOLhyphen"/>fore it is promiſed, ver. 22. <hi>They ſhall be no more two Nations, neither ſhall they be divided any more at all.</hi> That is one Mercy promiſed.</p>
+            <p n="2">2. It ſhall be attended with a peculiar ſanctifying work of the Spirit, ver. 23. <hi>Neither ſhall they defile themſelves any more with
+<pb n="22" facs="tcp:101233:17"/>
+their deteſtable things, for I will cleanſe them.</hi> I know how theſe deteſtable things are interpreted. But may we not underſtand them of their diviſions too, and the ſins cauſed thereby? I am ſure theſe are deteſtable things to God,<note place="margin">Ezek. 16.61, 63.</note> and when his people are made one, they ſhall become ſo to them, working to <hi>ſhame and ſelf-lothing,</hi> and when they become ſo, they ſhall be no more defiling. For <hi>I will cleanſe them,</hi> ſays God. This is another Mercy promiſed.</p>
+            <p n="3">3. It ſhall iſſue in a cloſer walking in all the ways and ap<g ref="char:EOLhyphen"/>pointments of God. So ver. 24. <hi>They ſhall walk in my judg<g ref="char:EOLhyphen"/>ments, and obſerve my ſtatutes, and do them.</hi> They ſhall con<g ref="char:EOLhyphen"/>ſult Divine Inſtitutions, and frame their Worſhip and Ways according to them. And this is another Mercy promiſed.</p>
+            <p n="4">4. It ſhall have its effect in a cloſer Covenant union to God<g ref="char:punc">▪</g> When his people are made one, he will renew his Covenant with them, make it more manifeſt that God and they are one. A thing is ſaid to be then done in Scripture, when it is made more manifeſt. Therefore it is ſaid ver. 23. <hi>So ſhall they be my people, and I will be their God. q. d.</hi> I will make it appear to all the World that theſe are the people of God, and that I am the God of this people. That is another Mercy promiſed.</p>
+            <p n="5">5. It ſhall iſſue in a great advantage, and advance to the King<g ref="char:EOLhyphen"/>dom of Chriſt. And hath not Chriſt gained a great point a<g ref="char:EOLhyphen"/>mong you in this union? I know you can't but ſee it, and ſay it. Diviſion ſhuts Chriſt out, union lets him in. This is a door opened in Heaven,<note place="margin">Rev. 4.1. Pſal. 24.7.</note> for ſo the Church is called. <hi>The ever<g ref="char:EOLhyphen"/>laſting doors</hi> are lifted up for <hi>the King of glory to come in.</hi> You have prepared the way of the Lord to his Throne, and given him an abundance entrance into his Kingdom by this thing.</p>
+            <p>Then the Lord Chriſt Reigns indeed when his Church and People ſerve him <hi>with one conſent,</hi> in <hi>one way,</hi> and in <hi>one Spirit.</hi> And therefore when the <hi>two ſticks are made one,</hi> it is ſaid, ver. 24. <hi>David my ſervant ſhall be king over them. i. e.</hi> ſhall reign in the Church more viſibly, more powerfully, more gloriouſly than ever.</p>
+            <p>And therefore brethren, lift up your heads, and look for great things to reſult from this great work of making the <hi>two ſticks one.</hi> I am well perſwaded that God hath a great deſign in this thing, and that it will have a farther extent than you can
+<pb n="23" facs="tcp:101233:17"/>
+foreſee.<note place="margin">Heb. 12.27.</note> How far it may reach to haſten the removal of all made things, all falſe Worſhip, all humane deviſings, who can tell? This is plain in Scripture, that <hi>Zions</hi> building,<note place="margin">Rev. 19.7, 20.</note> and <hi>Baby<g ref="char:EOLhyphen"/>lons</hi> ruine; the Lambs <hi>Marrying,</hi> and the Whores <hi>Burning,</hi> do go together. The Church Militant and Malignant are like a pair of Ballances, or the Buckets of a Well, as one goes up, the other goes down.</p>
+            <p>The Spirit of the Lord can't be quieted till the <hi>white horſes</hi> have fetched his people out of <hi>Babylon,</hi>
+               <note place="margin">Zech. 6.6, 8.</note> and the <hi>black horſes</hi> have ſpeeded her deſtruction.<note place="margin">Rev. 18.4, 8.</note> When the voice from Heaven once calls Gods people out of her, wrath from Heaven will quickly fall upon her.</p>
+            <p>But whatever the effect of this Diſpenſation of God be with<g ref="char:EOLhyphen"/>out, I am perſwaded it will be great within. And therefore look for ſome glorious appearance of Chriſt both in your Churches, and Miniſtry, as the reſult and bleſſed fruit of it. For,</p>
+            <p n="6">6. It ſhall be attended with great Church Mercies. So it is ſaid, ver. 26, 27. <hi>I will ſet my Sanctuary in the midſt of them, my Tabernacle alſo ſhall be with them.</hi> What is this Sanctuary? the <hi>Septuagint</hi> render it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>my holy things.</hi> It imports Purity of Goſpel Worſhip. That in <hi>Ezek.</hi> 43.11. explains it. <hi>Shew them the form of the houſe, and the faſhion thereof, and the going out, and the comings in thereof, and all the ordinances thereof, and all the Laws thereof, and write it in their ſight that they may keep the whole form thereof, and all the ordinances thereof, and do them.</hi> This is ſetting his Sanctuary and Tabernacle in the midſt of us: And this receives farther light from that of <hi>John,</hi> Rev. 21.2, 3. <hi>When he ſaw new Jeruſalem coming down from God,</hi> then he <hi>heard a voice out of heaven ſaying, Behold the Tabernacle of God is with men, and he will dwell with them.</hi> Are not theſe great Mercies?</p>
+            <p n="7">7. Nay it is ſuch a Union as ſhall have its effect in a great in<g ref="char:EOLhyphen"/>creaſe. Diviſion is a ſcattering judgment;<note place="margin">Gen. 49.7.</note> 
+               <hi>I will divide them in Jacob, and ſcatter them in Iſrael.</hi> But union and concord are bleſſed with increaſe. When <hi>were the Churches multiplied?</hi> but when they were at peace and <hi>walked together in the fear of the Lord, and in the comfort of the holy Ghoſt,</hi> Acts 9.31. Therefore God here doth not only promiſe to make them one, but ſo to make them out, that they ſhall thereby be many,
+<pb n="24" facs="tcp:101233:18"/>
+ver. 26. <hi>I will multiply them.</hi> And <hi>therefore ſing O barren, thou that didſt not bear,</hi>
+               <note place="margin">Iſa. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4.1, 3.</note> 
+               <hi>for thou ſhalt break forth on the right hand, and on the left, and thy ſeed ſhall make the deſolate Cities to be inhabited.</hi> And this is another Mercy here promiſed.</p>
+            <p>O the many Mercies that are the birth of this one Mercy! And therefore if the <hi>two ſticks</hi> are made <hi>one,</hi> give the glory to him who hath made them <hi>one,</hi> and hath ſaid <hi>they ſhall be one in his hand.</hi>
+               <note place="margin">Pſal. 118.23.</note> For <hi>it the Lords doing, and ſhould be marvellous in our eyes.</hi> And that the wonderful work of God may be to you mat<g ref="char:EOLhyphen"/>ter of laſting joy, give me leave to direct about it a little.</p>
+            <p n="1">1. Labour to manifeſt this union. If God hath made the <hi>two Sticks one,</hi> let it appear that they are one. Make it evi<g ref="char:EOLhyphen"/>dent by ſeeking each others welfare, rejoyce in the gifts, and graces, and ſucceſſes of others, as if they were our own; con<g ref="char:EOLhyphen"/>tributing your counſels, aſſiſtance, ſympathy, and prayers for the common good. When we live and act as they that have but one Eſſence and Intereſt, this makes the union manifeſt, and ſhews that we are in a ſenſe <hi>one,</hi> as God and Chriſt are <hi>one.</hi>
+            </p>
+            <p n="2">2. Uſe all means to preſerve the union. God hath made the <hi>two ſticks one,</hi> and he looks you ſhould preſerve the oneneſs. You come hardly by it,<note place="margin">Non minor eſt virtus, <hi>&amp;c.</hi>
+               </note> don t let it go; it hath coſt many prayers to obtain it, and therefore we ſhould ſpare no coſt to preſerve it. What is hardly got, ſhould not be eaſily loſt: It is as much a Duty to endeavour to keep it, as it was to ſeek it. <hi>Indea<g ref="char:EOLhyphen"/>vouring to keep the unity of the Spirit in the bond of peace.</hi>
+               <note place="margin">Eph. 4.3.</note>
+            </p>
+            <p>Need I uſe any Motives to preſs this?</p>
+            <p n="1">
+               <note place="margin">Motive</note>1. How many unities doth the Apoſtle urge as Arguments for the maintaining this Unity? All things in Religion are re<g ref="char:EOLhyphen"/>duced to one, that the people of God may be one, and abide one, Eph. 4 4. <hi>There is one body, and one ſpirit, one hope of your calling; one Lord, one faith, one baptiſm; one God and father of all, who is above all, and through all, and in you all.</hi> How many <hi>Ones</hi> are here to move the People of God to be <hi>one.</hi>
+            </p>
+            <p n="1">[1. <hi>There is one Body.</hi>] As Chriſt had but one natural Body, ſo he hath but one Myſtical. Chriſt hath many Members, but
+<pb n="25" facs="tcp:101233:18"/>
+he hath but <hi>one body,</hi> and all that believe in Chriſt are that <hi>one body.</hi> Now how monſtrous is it for the Members of the ſame Body to fight one againſt another, to rend and tare one another; for the Hand to pluck out the Eye, the Mouth to tear the Hand, <hi>&amp;c.</hi>
+            </p>
+            <p>What nearer then Members of the ſame Body? Brethren that have been <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; out of the ſame Womb, have been di<g ref="char:EOLhyphen"/>vided in Intereſt and Affections, and have defaced all feelings of Nature. You have inſtances of this in <hi>Cain</hi> and <hi>Abel, Jacob</hi> and <hi>Eſau.</hi>
+               <note place="margin">1 Cor. 12.25.</note> But it is not ſo with Members of the ſame Body: They care one for another, and perform their ſeveral Offices for the common good. Now ye are not only Friends and Brethren, but Members of <hi>one Body.</hi>
+            </p>
+            <p n="2">2. <hi>There is one Spirit.</hi>] As all the natural Members of the ſame Body have but one and the ſame Soul, ſo all the Members of the Myſtical Body of Chriſt, have one and the ſame Spirit. One Spirit to inlighten and teach, one Spirit to ſanctifie, and one Spirit to direct and lead. Why then ſhould they not have <hi>one heart, and one way,</hi> when they are taught and led by one Spirit? Is he not the Spirit of Love and Meekneſs?</p>
+            <p n="3">3. <hi>There is one hope of our Calling;] i. e.</hi> One Heaven, our hoped for Glory, to which all are called. There is one Inheritance for all the Saints; and why ſhould theer not be <hi>one Heart</hi> in them that have <hi>one Inheritance.</hi>
+            </p>
+            <p n="4">4. There's <hi>one Lord,</hi>] and that is the Lord Chriſt, whom we all worſhip and ſerve: And ſhall fellow Servants differ that have the ſame Lord? <hi>Is Chriſt divided?</hi>
+               <note place="margin">1 Cor. 1.13.</note>
+            </p>
+            <p n="5">5. There is <hi>one Faith.</hi>] One Syſteme of Chriſtian Doctrine; and if their be but one Faith, why ſhould we not be united therein in one judgment?</p>
+            <p n="6">6. There is <hi>one Baptiſm.</hi>] This is that Sacrament whereby we are diſtinguiſhed from the unbelieving World, and incor<g ref="char:EOLhyphen"/>porated into the Body of Chriſt. <hi>As many as have been bap<g ref="char:EOLhyphen"/>tized into Chriſt, have put on Christ.</hi> And ſhall we by our diſcords unbaptize our ſelves, by dividing from that Body into which we were baptized?</p>
+            <p n="7">
+               <pb n="26" facs="tcp:101233:19"/>7. There is one God and Father of all, who is above all, and through all, and in all] All theſe are to be reſtrained to the Church. <hi>Father of all,</hi> by Regeneration; <hi>above all,</hi> by his Dominion; <hi>through all,</hi> by his Preſence and ſpecial Pro<g ref="char:EOLhyphen"/>vidence; <hi>in all,</hi> by his Spirit and Grace.</p>
+            <p>And ſhall not we be <hi>one</hi> that have one God? Shall he be <hi>over us,</hi> and <hi>through us,</hi> and <hi>in us,</hi> and ſhould not this be an Argu<g ref="char:EOLhyphen"/>ment to preſerve Union among us?</p>
+            <p>
+               <hi>Motive</hi> 2. This is one great end of all Chriſts undertakings.</p>
+            <p>It was one end of his coming into the World; <hi>That in the fulneſs of time he might gather together in one, all things in Christ. Eph.</hi> 1.10.</p>
+            <p>It was one end of his Miniſtry; and therefore he doth ſo frequently inculcate it. <hi>Theſe things I command you, that ye love one another, John</hi> 15.17. and <hi>John</hi> 13.34, 35.</p>
+            <p>It was much the matter of his Prayer for Believers, <hi>That they all may be one.</hi> He urges it again and again, no leſs then four times in three Verſes, <hi>John</hi> 17.21, 21, 23.</p>
+            <p>It was one end of his Death, <hi>to gather together in one the children of God that are ſcattered abroad. John</hi> 11.50. See <hi>Epheſ.</hi> 2.14, 15, 16.</p>
+            <p>It was one end of his aſcenſion, and pouring out of his Spi<g ref="char:EOLhyphen"/>rit. It was not only to unite us to God, but to one another. He is the great uniting principle; therefore the oneneſs of Be<g ref="char:EOLhyphen"/>lievers is called <hi>the unity of the Spirit.</hi>
+               <note place="margin">Eph. 4.3.</note>
+            </p>
+            <p>You ſee how much the Heart of Chriſt was ſet upon this oneneſs among his People. Is this no motive?</p>
+            <p n="3">3. This is an evident badge, a manifeſt character of our Diſcipleſhip to Chriſt. <hi>John</hi> 13.35. <hi>By this ſhall all men know that ye are my diſciples, if ye love one another.</hi> But if ye do not, whoſe Diſciples will ye be known to be then?</p>
+            <p n="4">4. Let that of the Pſalmiſt be a motive. <hi>How good and pleaſant it is for brethren to live together in unity.</hi> Some things are <hi>good,</hi> but they are not <hi>pleaſant;</hi> as Afflictions. Some things are <hi>pleaſant,</hi> but they are not <hi>good;</hi> as Sins and Cor<g ref="char:EOLhyphen"/>ruptions. Some things are neither <hi>good,</hi> nor <hi>pleaſant;</hi> as En<g ref="char:EOLhyphen"/>vy and Malice: But Unity among Brethren is <hi>good</hi> and <hi>plea<g ref="char:EOLhyphen"/>ſant;</hi>
+               <pb n="27" facs="tcp:101233:19"/>
+and ſo hath in it a double excellency, for which it ſhould be ſought and imbraced.</p>
+            <p n="5">5. It is an evidence that God is accompliſhing the latter day promiſes upon you. <hi>Zeph.</hi> 3.9 <hi>Then will I turn to the people a pure language, that they may call upon the name of the Lord, to ſerve him with one conſent.</hi> And <hi>Zech.</hi> 14.9. <hi>In that day ſhall the Lord be one, and his name one.</hi> What day is that? <hi>When the Lord ſhall be King over all the Earth.</hi>
+            </p>
+            <p n="6">6. Nothing puts a greater beauty and glory upon you in the eyes of others, then this: <hi>Cant.</hi> 6.9. <hi>My dove, my unde<g ref="char:EOLhyphen"/>fied is but one, ſhe is the only one of her mother, ſhe is the choice one of her that bare her.</hi> And what follows? <hi>The daughters ſaw her, and bleſſed her, yea, the Queens, and Concubines, and they praiſed her. Who is ſhe that looketh forth as the morning, fair as the moon, clear as the ſun, and terrible as an army with banners.</hi>
+            </p>
+            <p n="7">7. This is that which ſecures the preſence of God with you. <hi>Live in peace, and the God of love and peace ſhall be with you.</hi>
+               <note place="margin">2 Cor. 13.11.</note>
+            </p>
+            <p>Theſe are ſome of the many Motives I might urge for the preſerving this Union, which is ſo great a Duty upon all the Churches; but more eſpecially upon you, that are their guides and leaders; you are to go before them in it as the <hi>he goats</hi> of the Flock.</p>
+            <p>Therefore you ſhould be the great examples of it. The Faces of the <hi>Cherubims</hi> in the Temple looked one towards another: Which ſome think ſignified the agreement that ſhould be among the Miniſters of the Goſpel.<note place="margin">Exod. 15.31, 32.</note> So the ſix branches of the golden Candleſtick joyn'd all in one; which intimates that they who hold out the light of Truth to others ſhould be one among themſelves.</p>
+            <p>Your Place, Calling, Office and Work, wherewith God hath be truſted you, do with a loud voice call you to this: More then the ſaving your own Souls lies upon your hands. The Glory of Chriſt, the promoting his Name and Intereſt, the building up his Church, the inlarging his Kingdom and Dominion, are the great part committed to you.</p>
+            <p>Are not your Names among the <hi>Angels</hi> who are to pour
+<pb n="28" facs="tcp:101233:20"/>
+out the <hi>Vials</hi> upon the Earth? For it is <hi>the vengeance of the Temple,</hi> and the <hi>Vials</hi> are in the hands of the <hi>Angels</hi> that come out of the Temple. Now I pray mark how they are clothed, <hi>in pure and white linnen, and their breasts girded with golden girdles. Rev.</hi> 15.6. This denotes Purity, Peace and Unity. And how muſt theſe Vials be poured out? By Preaching <hi>the everlaſting Goſpel.</hi> And pray mind, the Preach<g ref="char:EOLhyphen"/>ing the everlaſting Goſpel is ſaid to be the work but of <hi>one Angel, Rev.</hi> 14.6. and, yet the pouring out the Vials is the work of ſeven; to ſhew their unitedneſs in the Goſpel, and cauſe of Chriſt againſt Antichriſt.</p>
+            <p>Brethren, What deſign God may have to honour you in making uſe of your Gifts, and Learning, and Zeal for de<g ref="char:EOLhyphen"/>throning the Beaſt, and promoting the Kingdom of Chriſt, who can tell? But this I can tell, that it can never be done, but by a Spirit of Love and Union; and ſhould we not labour to preſerve it?</p>
+            <p>
+               <hi>Queſt.</hi> I but how ſhall it be done.</p>
+            <p>
+               <hi>Anſw.</hi> 1. Labour to remove all the cauſes of diviſion. Look back and ſee what root our diſcords ſprang from?<note place="margin">James 4.1.</note> 
+               <hi>Come they not hence, even of our lusts?</hi> Whatever you find to have been the cauſe of them; whether Spiritual Pride, or a Contentious Diſpoſition, or an affectation of Singularity, or errour of Opinion, or admiration of Mens Perſons, or a ſourneſs of Spirit, or an ambition of drawing Diſciples after us. Let the cauſe be what it will, it muſt be removed, if you would have the Union preſerved.</p>
+            <p n="2">2. Take heed of paſſing rigorous Cenſures on every light occaſion, and making the worſt of matters. In weighing the Actions of others, be ſure alwayes to caſt in the allowance of Humane Frailty; becauſe it is that which you expect many grains of for your ſelf, when another holds the ſcale. This auſterity and ſourneſs of Spirit, is uſually attended with a double miſchief; it hinders Union where it is indeavoured, and it often breaks it where it is attained. Thoſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that examine all things by the rigid rule of extream right, are nei<g ref="char:EOLhyphen"/>ther
+<pb n="29" facs="tcp:101233:20"/>
+juſt nor wiſe. They are not juſt to the Rule, which re<g ref="char:EOLhyphen"/>quires Moderation, and bearing and forbearing, where the caſe needs it. Nor are they wiſe for themſelves: For ſuch, <hi>Solomon</hi> ſayes, <hi>trouble their own fleſh.</hi>
+               <note place="margin">Prov. 11.17.</note>
+            </p>
+            <p n="3">3. Take heed of impropriating Chriſt to a party. A com<g ref="char:EOLhyphen"/>mon evil; but a great one. It was the ſin of the Church of <hi>Corinth; Every one of you ſaith, I am of Paul,</hi>
+               <note place="margin">1 Cor. 1.12.</note> 
+               <hi>and I of Apollo, and I of Cephas, and I of Chriſt.</hi> Now the Apoſtle reproves them all, as well them that ſaid <hi>I am of Chriſt,</hi> as any of the reſt.</p>
+            <p>But why did he reprove them? Is it not a Duty to be of Chriſt, and to own him above all? Yes, in a way of Union and Communion, but not in a way of Faction and Diviſion. We are to own Chriſt in a way of preference above all, but not in oppoſition to any. We are to exalt him as the Author of our Faith, but not ſo as to flight the inſtruments of our Faith, which is the ſin the Apoſtle here reproves. They were for prefering one Miniſter to the contempt of another. One was for <hi>Paul</hi> againſt <hi>Apollo,</hi> another for <hi>Apollo</hi> againſt <hi>Paul;</hi> a third for <hi>Peter</hi> againſt them both; a fourth was neither for one nor the other, but for Chriſt againſt them all; <hi>i. e.</hi> they cryed down all Humane Miniſtry, and were for the immediate teachings of Chriſt without any means or inſtruments. Now thus to ſay, <hi>I am of Chriſt,</hi> is a ſin.</p>
+            <p>For as we muſt not make a Chriſt of Means, by reſting upon them, ſo nor may we lay aſide Means, expecting Chriſt ſhould do all without them.</p>
+            <p>Be ſo for Chriſt as not to deſpiſe Miniſtry. Be ſo for the Miniſtry of one, as not to deſpiſe another. Do not impro<g ref="char:EOLhyphen"/>priate Chriſt to any party. It is a dividing Spirit to ſay, <hi>Lo here is Chriſt, or lo there is Chriſt.</hi>
+               <note place="margin">Matth. 24.23</note> It is to unfaint the whole World to Conſecrate our own way. And this is a provoking thing, and muſt needs ſtir up ſtrife and envy; for every man is concerned when his right and title is called in queſtion.</p>
+            <p>The Apoſtle diſcovers another Spirit, and more truly Ca<g ref="char:EOLhyphen"/>tholick, when he writes to this Church, 1 <hi>Cor.</hi> 1.2. <hi>To the ſaints at Corinth, and to all that in every place call upon the name of Jeſus Christ our Lord, both yours and ours.</hi> He ſeems to
+<pb n="30" facs="tcp:101233:21"/>
+check that proud and envious humour which would ſo incloſe Chriſt to a party, as to deny and defeat all other claims. <hi>Jeſus Chriſt, both theirs and ours.</hi> Like that of Chriſt, <hi>My father and your father, my God and your God. John</hi> 20.17.</p>
+            <p n="4">4. See that your Union be laid in Truth and Holineſs.</p>
+            <p n="1">
+               <note place="margin">Zech. 3.19.</note>(1.) In Truth: That muſt have the firſt place, <hi>love the truth and peace.</hi> Union in Errours, in falſe Principles, is no better than a confederacy againſt Chriſt.<note place="margin">Iſa. 8.12.</note> 
+               <hi>And ſay not a con<g ref="char:EOLhyphen"/>federacy.</hi> That is a curſed accommodation that is made to the diſſervice of Religion; becauſe while we thus make peace with Men, we make a breach with God.</p>
+            <p n="2">(2.) Let your Union be founded in Holineſs. It will not ſtand if it be not upon this bottom. Looſe Zeal is not unity, but compliance.<note place="margin">Heb. 12.14.</note> 
+               <hi>Follow peace with all men, and holineſs; with<g ref="char:EOLhyphen"/>out which no man ſhall ſee the Lord.</hi> A Man may ſee God without Peace, but he can't ſee God without Holineſs.</p>
+            <p>Peace is a ſort of proviſion that will not keep if it be not well ſalted: Therefore our Lord Chriſt hath taught you how to preſerve it: <hi>Mark</hi> 9.50. <hi>Have ſalt in your ſelves, and have peace one with another.</hi>
+            </p>
+            <p n="5">
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Col. 3.14.</note>5. Keep Love in conſtant exerciſe. This is a true principle of Union. It is not only the knot that ties it, but the bond that holds it. It is the cement that holds the ſtones of Chriſts Spiritual Temple together. This was the ſacred ſodder which united the Primitive Chriſtians ſo firmly of old, that <hi>they were of one heart,</hi>
+               <note place="margin">Acts 4.32.</note> 
+               <hi>and one ſoul.</hi>
+            </p>
+            <p>We are united to Chriſt by Faith, but to one another by Love: And we ſhould be careful to ſtrengthen both the bands, that neither of them be broken. The true Mother would ra<g ref="char:EOLhyphen"/>ther loſe the Child, then ſee it divided. Among the <hi>Romans</hi> they had a Temple dedicated <hi>Jovi depoſitorio,</hi> becauſe there they laid aſide their quarrels and differences before they en<g ref="char:EOLhyphen"/>ter'd into the Senate. Shall Heathens lay aſide their mutual
+<pb n="31" facs="tcp:101233:21"/>
+jars for common good, and ſhall not the Miniſters of the Goſ<g ref="char:EOLhyphen"/>pel do it much more for the Churches ſafety?</p>
+            <p n="6">6. Pray much for that <hi>wiſdom that is from above, which is pure, peaceable, gentle, and eaſie to be intreated. Jam.</hi> 3.17.</p>
+            <p n="3">3. Indeavour what in you lies to perfect this Union. No<g ref="char:EOLhyphen"/>thing leſs then this will fully anſwer the Prayer of Chriſt. He doth not only pray that his people may be made one, but <hi>that they may be made perfect in one. John</hi> 17.23. And if Chriſt prays for it, ought not we to indeavour it; that we may be <hi>perfectly joined together in the ſame mind,</hi>
+               <note place="margin">1 Cor. 1.10.</note> 
+               <hi>and in the ſame judgment?</hi>
+            </p>
+            <p>And becauſe the oneneſs can never be fully perfected here, therefore let us long for Heaven, where this Bleſſing ſhall be compleat. Here we injoy it by way of <hi>initiation,</hi> their it will be in <hi>conſummation.</hi> All partition Walls ſhall then be deſtroy<g ref="char:EOLhyphen"/>ed. There all contrary Opinions, and differing Sentiments ſhall ceaſe. Their <hi>Luther</hi> and <hi>Zuinglius, Hooper</hi> and <hi>Ridley,</hi> ſhall be all of a mind. Many Spiritual Gifts and Graces ſhall ceaſe there; <hi>whether there be prophecies, they ſhall fail, or whe<g ref="char:EOLhyphen"/>ther there be tongues, they ſhall ceaſe.</hi> Nay Faith, Hope, Re<g ref="char:EOLhyphen"/>pentance, <hi>&amp;c.</hi> they ſhall ceaſe too; but <hi>Charity never fails.</hi>
+               <note place="margin">1 Cor. 13.8.</note> Love and Union ſhall go with you to Heaven, and ſhall be a part of the Saints felicity for ever. It ſhall no more be ſaid, <hi>I am of Paul, and I of Apollo, but God ſhall be all in all.</hi>
+            </p>
+            <p>I will conclude all with a ſhort Exhortation, and a Prayer as ſhort. The Exhortation is in <hi>Philip.</hi> 2. five firſt Verſes. <hi>If their be therefore any conſolation in Christ, if any comfort of love, if any fellowſhip of the ſpirit, if any bowels and mercies, fulfil ye my joy, that ye be like minded, having the ſame love, being of one accord, of one mind: Let nothing be done through ſtrife, or vain glory, but in lowlineſs of mind let each eſteem other better then themſelves. Look not every man on his own things, but every man alſo on the things of others. Let this mind be in you which was alſo in Christ Jeſus.</hi> That is the Exhorta<g ref="char:EOLhyphen"/>tion.</p>
+            <p>
+               <pb n="32" facs="tcp:101233:22"/>The Prayer is in <hi>Rom.</hi> 15.5, 6. <hi>Now the God of patience and conſolation grant you to be like minded one towards <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> according to Chriſt Jeſus, that ye may with one mind, and one mouth glorifie God, even the father of our Lord Jeſus Christ.</hi> Then will the Two Sticks be One in the hand of the Lord.</p>
+            <p>
+               <note place="margin">Eph. 3.21.</note>
+               <hi>To him be glory in all the Churches by Christ Jeſus, through<g ref="char:EOLhyphen"/>out all ages.</hi> AMEN.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>Theſe four Books are Publiſhed by Mr. <hi>Matthew Mead,</hi> and ſold by <hi>Tho. Parkhurſt</hi> in <hi>Cheapſide,</hi> viz.</p>
+            <p>Spiritual wiſdom Improved againſt Temptation, in a Sermon at <hi>Stepney, September</hi> 16th. 1660.</p>
+            <p>The Almoſt Chriſtian Diſcovered, or the falſe Profeſſor try'd and Caſt, in ſeven Sermons.</p>
+            <p>The Good of Early Obedience or the Advantage of Bearing the Yoak of Chriſt betimes.</p>
+            <p>The Viſion of the Wheel ſeen by the Prophet <hi>Ezekiel</hi> open<g ref="char:EOLhyphen"/>ed and Applyed, partly at the <hi>Merchants</hi> Lecture in <hi>Broad-ſtreet,</hi> and partly at <hi>Stepney</hi> on <hi>January</hi> 31th. 168<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be<g ref="char:EOLhyphen"/>ing the day of thankſgiving to God for the great Deliverance of the Kingdom from Popery and Slavery.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
